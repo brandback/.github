@@ -1,6 +1,6 @@
 # Brandback
 
-Switch to "View as Member"
+Switch to "View as Member" to see the internal README!
 
 <!--
 
