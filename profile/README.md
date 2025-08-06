@@ -1,5 +1,7 @@
 # Brandback
+Make resale easy and profitable!
 
+## For org members
 Switch to "View as: Member" to see the internal README!
 
 <img width="1267" alt="switch_to_member" src="https://github.com/brandback/.github/assets/152556051/57d48824-ad45-4e61-adc6-248610686826">
